@@ -1,4 +1,4 @@
-## Greetings
+# Greetings
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=700&lines=print('Hello%2C%20World!');cat('Hello%2C%20World!');printf('Hello%2C%20World!');System.out.println('Hello%2C%20World!');cout%20<<%20'Hello%2C%20World!'%20<<%20endl;console.log('Hello%2C%20World!');say('Hello%2C%20World!');print%20'Hello%2C%20World!';" alt="Typing SVG" />
@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -26,7 +27,6 @@
   <img src="https://img.shields.io/badge/-Nextflow-00BFFF?style=for-the-badge&logo=nextflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 </p>
 
 <!-- BIO_JOKE_START -->
