@@ -10,7 +10,6 @@
 </p>
 
 
-
 ## 当前学习 & 计划
 
 <p align="center">
@@ -29,11 +28,24 @@
   <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <b>工具链</b><br>
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=vscode&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Obsidian-7C3AED?logo=obsidian&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-CodeWhale-00BFFF?logo=code&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+</p>
+
+
 <!-- BIO_JOKE_START -->
 <p align="center">
   Q: How to make a grad student shiver in one second?<br>A: Whisper: "Your file is not saved."
 </p>
 <!-- BIO_JOKE_END -->
+
 
 ## 开发统计
 
@@ -43,11 +55,9 @@
 </p>
 
 
-
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="程序员的每日笑话" width="500"/>
 </p>
-
 
 
 <!--
