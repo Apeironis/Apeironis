@@ -31,12 +31,18 @@
 <p align="center">
   <b>工具链</b><br>
   <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=vscode&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Obsidian-7C3AED?logo=obsidian&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-CodeWhale-00BFFF?logo=code&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <b>---</b><br>
+  <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Conda-44A833?logo=anaconda&logoColor=white&style=for-the-badge"/>
 </p>
 
 
