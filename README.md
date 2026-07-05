@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: How to make a grad student shiver in one second?<br>A: Whisper: "Your file is not saved."
+  Q: What do you call a sequencing run that fails miserably?<br>A: A bad read – and it's not even a good story.
 </p>
 <!-- BIO_JOKE_END -->
 
