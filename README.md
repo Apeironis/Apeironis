@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What do you call a sequencing run that fails miserably?<br>A: A bad read – and it's not even a good story.
+  Q: Why are bioinformaticians so bad at dating?<br>A: Because they always get too many mismatches and can never find the right pair.
 </p>
 <!-- BIO_JOKE_END -->
 
