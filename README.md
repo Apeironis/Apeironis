@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What did the plant do when it saw the window?<br>A: It waved.
+  Q: Why did the bioinformatician bring a ladder to work?<br>A: To climb the coverage mountain.
 </p>
 <!-- BIO_JOKE_END -->
 
