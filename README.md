@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why did the bioinformatician bring a ladder to work?<br>A: To climb the coverage mountain.
+  Q: Why did DNA go dancing?<br>A: Because it had good genes (jeans).
 </p>
 <!-- BIO_JOKE_END -->
 
