@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why did DNA go dancing?<br>A: Because it had good genes (jeans).
+  Q: What's a bioinformatician's favorite dance?<br>A: The SAM‑samba, because it's always ready to be converted to BAM.
 </p>
 <!-- BIO_JOKE_END -->
 
