@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What's a bioinformatician's favorite dance?<br>A: The SAM‑samba, because it's always ready to be converted to BAM.
+  Q: Why is the grad student's lab always freezing?<br>A: Because it's full of "zero citations".
 </p>
 <!-- BIO_JOKE_END -->
 
