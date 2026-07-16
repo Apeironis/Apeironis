@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why is the grad student's lab always freezing?<br>A: Because it's full of "zero citations".
+  Q: How many bioinformaticians does it take to change a light bulb?<br>A: None – they just do an enrichment analysis on the darkness.
 </p>
 <!-- BIO_JOKE_END -->
 
