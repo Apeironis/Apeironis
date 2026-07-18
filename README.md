@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What did the FASTQ file say to the reference genome?<br>A: “You complete me... but I still have 5% unmapped.”
+  Q: How does a bioinformatician spend their vacation?<br>A: Running a clustering analysis on the beach.
 </p>
 <!-- BIO_JOKE_END -->
 
