@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why did the bioinformatician cross the road twice?<br>A: Once forward and once reverse complement!
+  Q: What did the DNA say to the other DNA?<br>A: Do these genes make me look fat?
 </p>
 <!-- BIO_JOKE_END -->
 
