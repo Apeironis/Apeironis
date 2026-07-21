@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What did the DNA say to the other DNA?<br>A: Do these genes make me look fat?
+  Q: Why did the sequencer break up with the PCR?<br>A: Because it couldn't handle the amplification of feelings.
 </p>
 <!-- BIO_JOKE_END -->
 
