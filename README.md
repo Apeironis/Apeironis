@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why did the sequencer break up with the PCR?<br>A: Because it couldn't handle the amplification of feelings.
+  Q: Why don't plants get colds?<br>A: Because they always stay "green".
 </p>
 <!-- BIO_JOKE_END -->
 
