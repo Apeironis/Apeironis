@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why don't plants get colds?<br>A: Because they always stay "green".
+  Q: Why are gene annotators so lonely?<br>A: Because they always work alone (own).
 </p>
 <!-- BIO_JOKE_END -->
 
