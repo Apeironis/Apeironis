@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why are gene annotators so lonely?<br>A: Because they always work alone (own).
+  Q: What do you call a sequencing run that fails miserably?<br>A: A bad read – and it's not even a good story.
 </p>
 <!-- BIO_JOKE_END -->
 
