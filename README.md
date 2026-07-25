@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What do you call a sequencing run that fails miserably?<br>A: A bad read – and it's not even a good story.
+  Q: Why did the reference genome break up with the query sequence?<br>A: Because the query was too fragmented and had too many gaps.
 </p>
 <!-- BIO_JOKE_END -->
 
