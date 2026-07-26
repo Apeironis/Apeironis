@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why did the reference genome break up with the query sequence?<br>A: Because the query was too fragmented and had too many gaps.
+  Q: Why do bioinformaticians love the command line?<br>A: Because they can `grep` for love, but they always get `no such file or directory`.
 </p>
 <!-- BIO_JOKE_END -->
 
