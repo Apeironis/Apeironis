@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why do bioinformaticians love the command line?<br>A: Because they can `grep` for love, but they always get `no such file or directory`.
+  Q: Why did the bioinformatician cross the road twice?<br>A: Once forward and once reverse complement!
 </p>
 <!-- BIO_JOKE_END -->
 
