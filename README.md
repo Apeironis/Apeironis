@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why did the bioinformatician cross the road twice?<br>A: Once forward and once reverse complement!
+  Q: How does a bioinformatician spend their vacation?<br>A: Running a clustering analysis on the beach.
 </p>
 <!-- BIO_JOKE_END -->
 
