@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: How does a bioinformatician spend their vacation?<br>A: Running a clustering analysis on the beach.
+  Q: Why did the sequencer break up with the PCR?<br>A: Because it couldn't handle the amplification of feelings.
 </p>
 <!-- BIO_JOKE_END -->
 
