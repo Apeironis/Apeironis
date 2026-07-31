@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why did the sequencer break up with the PCR?<br>A: Because it couldn't handle the amplification of feelings.
+  Q: Why do bioinformaticians love the dark?<br>A: Because their data is always on Illumina.
 </p>
 <!-- BIO_JOKE_END -->
 
