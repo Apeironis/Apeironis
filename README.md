@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why did the sequencer break up with the PCR?<br>A: Because it couldn't handle the amplification of feelings.
+  Q: How to make a grad student shiver in one second?<br>A: Whisper: "Your file is not saved."
 </p>
 <!-- BIO_JOKE_END -->
 
