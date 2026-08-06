@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why do bioinformaticians love the command line?<br>A: Because they can `grep` for love, but they always get `no such file or directory`.
+  Q: What did the contig say when it was finally assembled?<br>A: "I finally feel complete, but I still have gaps."
 </p>
 <!-- BIO_JOKE_END -->
 
