@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What did the contig say when it was finally assembled?<br>A: "I finally feel complete, but I still have gaps."
+  Q: Why are bioinformaticians so bad at dating?<br>A: Because they always get too many mismatches and can never find the right pair.
 </p>
 <!-- BIO_JOKE_END -->
 
