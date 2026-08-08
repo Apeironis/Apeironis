@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why are bioinformaticians so bad at dating?<br>A: Because they always get too many mismatches and can never find the right pair.
+  Q: How does a bioinformatician spend their vacation?<br>A: Running a clustering analysis on the beach.
 </p>
 <!-- BIO_JOKE_END -->
 
