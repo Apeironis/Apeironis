@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: How does a bioinformatician spend their vacation?<br>A: Running a clustering analysis on the beach.
+  Q: How many bioinformaticians does it take to change a light bulb?<br>A: None – they just do an enrichment analysis on the darkness.
 </p>
 <!-- BIO_JOKE_END -->
 
