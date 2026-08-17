@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What did the plant do when it saw the window?<br>A: It waved.
+  Q: What did the FASTQ file say to the reference genome?<br>A: “You complete me... but I still have 5% unmapped.”
 </p>
 <!-- BIO_JOKE_END -->
 
