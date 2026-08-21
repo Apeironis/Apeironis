@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: How to make a grad student shiver in one second?<br>A: Whisper: "Your file is not saved."
+  Q: What did the plant do when it saw the window?<br>A: It waved.
 </p>
 <!-- BIO_JOKE_END -->
 
