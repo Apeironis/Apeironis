@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What did the plant do when it saw the window?<br>A: It waved.
+  Q: What's a bioinformatician's favorite dance?<br>A: The SAM‑samba, because it's always ready to be converted to BAM.
 </p>
 <!-- BIO_JOKE_END -->
 
