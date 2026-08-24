@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why did the sequencer break up with the PCR?<br>A: Because it couldn't handle the amplification of feelings.
+  Q: Why are bioinformaticians so bad at dating?<br>A: Because they always get too many mismatches and can never find the right pair.
 </p>
 <!-- BIO_JOKE_END -->
 
