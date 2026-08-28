@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What did the FASTQ file say to the reference genome?<br>A: “You complete me... but I still have 5% unmapped.”
+  Q: How to make a grad student shiver in one second?<br>A: Whisper: "Your file is not saved."
 </p>
 <!-- BIO_JOKE_END -->
 
