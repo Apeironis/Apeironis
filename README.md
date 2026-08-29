@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: How to make a grad student shiver in one second?<br>A: Whisper: "Your file is not saved."
+  Q: Why did the bioinformatician cross the road twice?<br>A: Once forward and once reverse complement!
 </p>
 <!-- BIO_JOKE_END -->
 
