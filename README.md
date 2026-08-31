@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why did the bioinformatician bring a ladder to work?<br>A: To climb the coverage mountain.
+  Q: Why is the grad student's lab always freezing?<br>A: Because it's full of "zero citations".
 </p>
 <!-- BIO_JOKE_END -->
 
