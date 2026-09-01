@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why is the grad student's lab always freezing?<br>A: Because it's full of "zero citations".
+  Q: Why did the bioinformatician cross the road twice?<br>A: Once forward and once reverse complement!
 </p>
 <!-- BIO_JOKE_END -->
 
