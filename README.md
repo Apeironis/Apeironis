@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why do bioinformaticians love the command line?<br>A: Because they can `grep` for love, but they always get `no such file or directory`.
+  Q: What do you call a sequencing run that fails miserably?<br>A: A bad read – and it's not even a good story.
 </p>
 <!-- BIO_JOKE_END -->
 
