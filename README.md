@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What do you call a sequencing run that fails miserably?<br>A: A bad read – and it's not even a good story.
+  Q: Why was the VCF file always anxious?<br>A: Because it had too many variants and couldn't decide which one was pathogenic.
 </p>
 <!-- BIO_JOKE_END -->
 
