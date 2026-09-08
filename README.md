@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why do bioinformaticians love the dark?<br>A: Because their data is always on Illumina.
+  Q: What do you call a sequencing run that fails miserably?<br>A: A bad read – and it's not even a good story.
 </p>
 <!-- BIO_JOKE_END -->
 
