@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: How does a bioinformatician spend their vacation?<br>A: Running a clustering analysis on the beach.
+  Q: What do you call a sequencing run that fails miserably?<br>A: A bad read – and it's not even a good story.
 </p>
 <!-- BIO_JOKE_END -->
 
