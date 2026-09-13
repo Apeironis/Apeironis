@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What did the plant do when it saw the window?<br>A: It waved.
+  Q: Why did DNA go dancing?<br>A: Because it had good genes (jeans).
 </p>
 <!-- BIO_JOKE_END -->
 
