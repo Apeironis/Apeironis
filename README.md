@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why did the bioinformatician break up with their laptop?<br>A: It took up too much space on the desk.
+  Q: What did the DNA say to the other DNA?<br>A: Do these genes make me look fat?
 </p>
 <!-- BIO_JOKE_END -->
 
