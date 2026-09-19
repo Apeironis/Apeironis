@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What did the contig say when it was finally assembled?<br>A: "I finally feel complete, but I still have gaps."
+  Q: Why did the bioinformatician break up with their partner?<br>A: Because they couldn't handle the pair‑end reads – they always wanted single‑end.
 </p>
 <!-- BIO_JOKE_END -->
 
