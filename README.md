@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why do bioinformaticians love the dark?<br>A: Because their data is always on Illumina.
+  Q: Why don't plants get colds?<br>A: Because they always stay "green".
 </p>
 <!-- BIO_JOKE_END -->
 
