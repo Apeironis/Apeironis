@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why don't plants get colds?<br>A: Because they always stay "green".
+  Q: Why was the VCF file always anxious?<br>A: Because it had too many variants and couldn't decide which one was pathogenic.
 </p>
 <!-- BIO_JOKE_END -->
 
