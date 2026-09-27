@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why did the bioinformatician bring a ladder to work?<br>A: To climb the coverage mountain.
+  Q: How many bioinformaticians does it take to change a light bulb?<br>A: None – they just do an enrichment analysis on the darkness.
 </p>
 <!-- BIO_JOKE_END -->
 
