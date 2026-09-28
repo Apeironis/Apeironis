@@ -48,7 +48,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: How many bioinformaticians does it take to change a light bulb?<br>A: None – they just do an enrichment analysis on the darkness.
+  Q: Why was the VCF file always anxious?<br>A: Because it had too many variants and couldn't decide which one was pathogenic.
 </p>
 <!-- BIO_JOKE_END -->
 
