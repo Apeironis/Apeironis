@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge" />
 </p>
 
+```
 <p align="center">
   <b>工具链</b><br>
   <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=vscode&logoColor=white&style=for-the-badge"/>
@@ -44,7 +45,7 @@
   <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Conda-44A833?logo=anaconda&logoColor=white&style=for-the-badge"/>
 </p>
-
+```
 
 <!-- BIO_JOKE_START -->
 <p align="center">
