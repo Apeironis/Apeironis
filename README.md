@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why is the grad student's lab always freezing?<br>A: Because it's full of "zero citations".
+  Q: Why did the reference genome break up with the query sequence?<br>A: Because the query was too fragmented and had too many gaps.
 </p>
 <!-- BIO_JOKE_END -->
 
