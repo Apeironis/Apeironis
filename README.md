@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why did the reference genome break up with the query sequence?<br>A: Because the query was too fragmented and had too many gaps.
+  Q: What did the contig say when it was finally assembled?<br>A: "I finally feel complete, but I still have gaps."
 </p>
 <!-- BIO_JOKE_END -->
 
