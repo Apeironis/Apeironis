@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why are bioinformaticians so bad at dating?<br>A: Because they always get too many mismatches and can never find the right pair.
+  Q: What did the DNA say to the other DNA?<br>A: Do these genes make me look fat?
 </p>
 <!-- BIO_JOKE_END -->
 
