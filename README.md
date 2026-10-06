@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What did the DNA say to the other DNA?<br>A: Do these genes make me look fat?
+  Q: What did the contig say when it was finally assembled?<br>A: "I finally feel complete, but I still have gaps."
 </p>
 <!-- BIO_JOKE_END -->
 
