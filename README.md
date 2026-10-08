@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why are bioinformaticians so bad at dating?<br>A: Because they always get too many mismatches and can never find the right pair.
+  Q: Why did the bioinformatician break up with their laptop?<br>A: It took up too much space on the desk.
 </p>
 <!-- BIO_JOKE_END -->
 
