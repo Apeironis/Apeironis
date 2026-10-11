@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What's a bioinformatician's favorite dance?<br>A: The SAM‑samba, because it's always ready to be converted to BAM.
+  Q: Why did the bioinformatician break up with their partner?<br>A: Because they couldn't handle the pair‑end reads – they always wanted single‑end.
 </p>
 <!-- BIO_JOKE_END -->
 
