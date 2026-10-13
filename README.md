@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: How many bioinformaticians does it take to change a light bulb?<br>A: None – they just do an enrichment analysis on the darkness.
+  Q: Why are bioinformaticians so bad at dating?<br>A: Because they always get too many mismatches and can never find the right pair.
 </p>
 <!-- BIO_JOKE_END -->
 
