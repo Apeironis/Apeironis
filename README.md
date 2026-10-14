@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why are bioinformaticians so bad at dating?<br>A: Because they always get too many mismatches and can never find the right pair.
+  Q: Why did DNA go dancing?<br>A: Because it had good genes (jeans).
 </p>
 <!-- BIO_JOKE_END -->
 
