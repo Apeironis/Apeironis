@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What did the DNA say to the other DNA?<br>A: Do these genes make me look fat?
+  Q: Why do bioinformaticians love the dark?<br>A: Because their data is always on Illumina.
 </p>
 <!-- BIO_JOKE_END -->
 
