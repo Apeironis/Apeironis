@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why do bioinformaticians love the dark?<br>A: Because their data is always on Illumina.
+  Q: What did the plant do when it saw the window?<br>A: It waved.
 </p>
 <!-- BIO_JOKE_END -->
 
