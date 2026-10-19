@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: How to make a grad student shiver in one second?<br>A: Whisper: "Your file is not saved."
+  Q: Why did the bioinformatician break up with their laptop?<br>A: It took up too much space on the desk.
 </p>
 <!-- BIO_JOKE_END -->
 
