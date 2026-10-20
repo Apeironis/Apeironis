@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why did the bioinformatician break up with their laptop?<br>A: It took up too much space on the desk.
+  Q: What did the contig say when it was finally assembled?<br>A: "I finally feel complete, but I still have gaps."
 </p>
 <!-- BIO_JOKE_END -->
 
