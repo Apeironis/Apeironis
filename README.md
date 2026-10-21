@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What did the contig say when it was finally assembled?<br>A: "I finally feel complete, but I still have gaps."
+  Q: What did the FASTQ file say to the reference genome?<br>A: “You complete me... but I still have 5% unmapped.”
 </p>
 <!-- BIO_JOKE_END -->
 
