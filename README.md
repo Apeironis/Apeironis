@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why did the bioinformatician break up with their laptop?<br>A: It took up too much space on the desk.
+  Q: Why did the sequencer break up with the PCR?<br>A: Because it couldn't handle the amplification of feelings.
 </p>
 <!-- BIO_JOKE_END -->
 
