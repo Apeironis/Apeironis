@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why did the sequencer break up with the PCR?<br>A: Because it couldn't handle the amplification of feelings.
+  Q: Why do bioinformaticians love the command line?<br>A: Because they can `grep` for love, but they always get `no such file or directory`.
 </p>
 <!-- BIO_JOKE_END -->
 
