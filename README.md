@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why do bioinformaticians love the command line?<br>A: Because they can `grep` for love, but they always get `no such file or directory`.
+  Q: What did the FASTQ file say to the reference genome?<br>A: “You complete me... but I still have 5% unmapped.”
 </p>
 <!-- BIO_JOKE_END -->
 
