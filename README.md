@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What did the plant do when it saw the window?<br>A: It waved.
+  Q: Why is the grad student's lab always freezing?<br>A: Because it's full of "zero citations".
 </p>
 <!-- BIO_JOKE_END -->
 
