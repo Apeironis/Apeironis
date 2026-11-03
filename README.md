@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What do you call a sequencing run that fails miserably?<br>A: A bad read – and it's not even a good story.
+  Q: Why don't plants get colds?<br>A: Because they always stay "green".
 </p>
 <!-- BIO_JOKE_END -->
 
