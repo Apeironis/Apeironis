@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why do bioinformaticians love the command line?<br>A: Because they can `grep` for love, but they always get `no such file or directory`.
+  Q: Why did the bioinformatician bring a ladder to work?<br>A: To climb the coverage mountain.
 </p>
 <!-- BIO_JOKE_END -->
 
