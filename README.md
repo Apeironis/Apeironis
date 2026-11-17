@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What did the DNA say to the other DNA?<br>A: Do these genes make me look fat?
+  Q: Why are gene annotators so lonely?<br>A: Because they always work alone (own).
 </p>
 <!-- BIO_JOKE_END -->
 
