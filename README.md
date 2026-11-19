@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: What do you call a sequencing run that fails miserably?<br>A: A bad read – and it's not even a good story.
+  Q: Why did the bioinformatician break up with their partner?<br>A: Because they couldn't handle the pair‑end reads – they always wanted single‑end.
 </p>
 <!-- BIO_JOKE_END -->
 
