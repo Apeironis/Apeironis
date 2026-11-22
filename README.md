@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why did the bioinformatician cross the road twice?<br>A: Once forward and once reverse complement!
+  Q: What did the contig say when it was finally assembled?<br>A: "I finally feel complete, but I still have gaps."
 </p>
 <!-- BIO_JOKE_END -->
 
