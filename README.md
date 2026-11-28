@@ -49,7 +49,7 @@
 
 <!-- BIO_JOKE_START -->
 <p align="center">
-  Q: Why do bioinformaticians love the dark?<br>A: Because their data is always on Illumina.
+  Q: How to make a grad student shiver in one second?<br>A: Whisper: "Your file is not saved."
 </p>
 <!-- BIO_JOKE_END -->
 
